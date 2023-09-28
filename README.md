@@ -15,4 +15,6 @@ This project is a template for building a React web application with state manag
 3. Install dependencies:
    
    npm install
+
+   npm start
    
